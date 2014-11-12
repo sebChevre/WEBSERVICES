@@ -1,11 +1,11 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="SoapWebServices:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/SoapWebServices_war_exploded</output-path>
+  <artifact type="exploded-war" name="RestWebServices:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/RestWebServices_war_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="SoapWebServices/web/Web" />
+      <element id="javaee-facet-resources" facet="RestWebServices/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="SoapWebServices" />
+          <element id="module-output" name="RestWebServicesStandAlone" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
